@@ -13,32 +13,18 @@ window.PROJECTS = [
     github: "https://github.com/ZhedongHu/ZhedongHu.github.io",
     demo: "https://zhedonghu.github.io"
   },
-  {
-    icon: "🎮",
+ {
+    icon: "📒",
     title: {
-      zh: "Scratch 小游戏合集",
-      en: "Scratch Game Collection"
+      zh: "日记仓库",
+      en: "Diary"
     },
     description: {
-      zh: "用 Scratch 制作的几个小游戏，包含跳跃、收集和闯关玩法。",
-      en: "A few small games made with Scratch, including jumping, collecting and level challenges."
+      zh: "一个日记仓库，配有一个非常简陋的网页",
+      en: "A diary repository with a very rudimentary web interface."
     },
-    tags: ["Scratch", "Game"],
-    github: "https://github.com/ZhedongHu/scratch-games",
-    demo: ""
+    tags: ["HTML", "Markdown", "Diary"],
+    github: "https://github.com/ZhedongHu/Diary",
+    demo: "https://zhedonghu.github.io/Diary"
   },
-  {
-    icon: "🐍",
-    title: {
-      zh: "Python 学习小工具",
-      en: "Python Learning Tools"
-    },
-    description: {
-      zh: "学习 Python 时写的小脚本集合，比如计算器、猜数字等。",
-      en: "A collection of small scripts written while learning Python, such as calculator, number guessing, etc."
-    },
-    tags: ["Python"],
-    github: "https://github.com/ZhedongHu/python-tools",
-    demo: ""
-  }
 ];
