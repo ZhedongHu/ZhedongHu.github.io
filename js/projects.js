@@ -10,8 +10,8 @@ window.PROJECTS = [
       en: "The website you are looking at now: blue tech style, bilingual, and easy to extend project list."
     },
     tags: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/ZhedongHu/new-homepage/",
-    demo: "https://zhedonghu.github.io/new-homepage/"
+    github: "https://github.com/ZhedongHu/zhedonghu.github.io/",
+    demo: "https://zhedonghu.github.io/"
   },
  {
     icon: "📒",
