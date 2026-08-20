@@ -23,7 +23,6 @@ html {
 }
 
 body {
-  font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
   background: var(--bg-deep);
   color: var(--text);
   overflow-x: hidden;
